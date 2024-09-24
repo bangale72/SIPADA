@@ -1,0 +1,66 @@
+body {
+    font-family: "Geologica", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:
+        "slnt" 0,
+        "CRSV" 0,
+        "SHRP" 0;
+}
+
+.navbar {
+    background-color: #771414;
+}
+
+.carousel-item {
+    height: 91vh;
+    padding: 0;
+}
+
+.carousel-item img {
+    height: 100%; 
+    object-fit: cover;
+    width: 100%;
+    border-radius: 0px;
+}
+
+.section-countdon {
+    background-image: url('../images/bg-countdown.jpg');
+    background-size: cover;
+    padding: 10px;
+    margin: auto;
+}
+
+.countdown {
+    font-family: "New Amsterdam", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 70px;
+    color: #ffff;
+}
+
+.cnd {
+    font-family: "New Amsterdam", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 50px;
+    color: #ffff;
+}
+
+#statistik {
+    background-image: url('../images/artboard.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #ffff;
+}
+
+.footer {
+    background-color: #771414;
+}
+
+.footer-p {
+    font-size: 16px;
+    font-style: italic;
+    color: #ffff;
+    margin-top: 12px;
+}
